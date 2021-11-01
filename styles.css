@@ -1,0 +1,28 @@
+body {
+    
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 300px;
+}
+
+.ticSquare {
+    color: black;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin: 0px;
+    border: 1px solid black;
+    flex: 1 1 98px;
+    height: 98px;
+    font-size: 120px;
+}
+
+
+button {
+    margin: 10px;
+}
